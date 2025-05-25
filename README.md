@@ -5,3 +5,14 @@ Neste repósitorio você encortrará a evolução do meu aprendizado com sql, de
 
 
 In this repository you will follow the evolution of my learning with SQL, I will leave the most specific, for case studies. The projects aim at the integration of the database with Python and its manipulation.
+
+
+---
+
+# COMANDO SQL 
+| COMANDO     |    FUNÇÃO |
+| :--------                 |   :---------        |
+|     CREATE                 |     Cria tabelas, bancos, índices, etc.    |
+|     ALTER                       |   Altera estrutura de uma tabela (ex: adicionar coluna)                                      |                                                            
+|    DROP                       |    Remove tabelas, colunas ou bancos de dados                              |
+|TRUNCATE                         | Apaga todos os dados de uma tabela (sem log)                               |
